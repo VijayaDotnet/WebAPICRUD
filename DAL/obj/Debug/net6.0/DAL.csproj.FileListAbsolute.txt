@@ -1,0 +1,12 @@
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\bin\Debug\net6.0\DAL.dll
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\bin\Debug\net6.0\ref\DAL.dll
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\bin\Debug\net6.0\DAL.pdb
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.dll
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\MyProjects\NetCorePractice\WebAPICRUD\DAL\obj\Debug\net6.0\DAL.pdb
